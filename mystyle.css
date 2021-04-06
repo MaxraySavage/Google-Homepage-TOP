@@ -1,0 +1,23 @@
+header {
+    background-color: red;
+    }
+
+footer {
+    background-color: cyan;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+#logo {
+    margin: auto;
+    width: 30%;
+    display: block;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+#search-form {
+    margin: auto;
+    width: 30%;
+}
