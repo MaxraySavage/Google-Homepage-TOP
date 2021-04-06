@@ -1,4 +1,4 @@
-# Google Hompage Notes
+# Google Homepage Notes
 
 ## Observations
 There are 3 main components to the google homepage:
