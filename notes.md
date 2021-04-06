@@ -1,41 +1,36 @@
 # Google Hompage Notes
 
 ## Observations
-```cursor: pointer``` on buttons
+There are 3 main components to the google homepage:
+- Header
+- Center Block
+- Footer
 
-Header has
-- About
-- Store
-on Left side
-and
-- Gmail
-- Images
-- box of nine circles
-- blue sign in button
-on the right
+Some other general observatyiosn:
+```cursor: pointer``` on buttons/links
+
+### Header
+The header has some links and a sign in button.
+
+On the left side we have "About" and "Store."
+
+On the right "Gmail" "Images" 9 circles arranged in a square and a blue sign in button.
 
 The box of circles has a little circle that appears behind it on mouse over
-also a little box pops up under it with:
-- rgba(60,64,67,0.90)
-- background: rgba(60,64,67,0.90);
-    border-radius: 4px;
-    color: #ffffff;
-    font: 500 12px 'Roboto',arial,sans-serif;
-    letter-spacing: .8px;
-    line-height: 16px;
-    margin-top: 4px;
-    min-height: 14px;
-    padding: 4px 8px;
-    position: absolute;
-    z-index: 1000;
-    -webkit-font-smoothing: antialiased;
+The sign in is blue with full white text, this color when moused over: #2b7de9, when (active) #63a0ef and when inactive (#1a73e8). 
 
-    The sign in is blue with full white text, this color when moused over: #2b7de9, when (active) #63a0ef 
-    and when inactive (#1a73e8): 
+### Center Block
+The center block consists of:
+- Logo
+- Text Form
+- Search and Lucky Buttons
 
-Main thing is header with some text on left and right side
-google logo
-search bar
-google search, i'm feeling lucky
-
-bottom header with some text
+### Footer
+The footer has 
+- Advertising
+- Business
+- How search works
+- Carbon neutral since 2007
+- Privacy
+- Terms 
+- Settings
