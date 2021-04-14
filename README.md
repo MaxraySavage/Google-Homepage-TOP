@@ -63,3 +63,6 @@ I wanted the Google logo to pull away from the header but only after the page ex
     margin-top: max(100vh - 982px, 0px);
 }
 ```
+
+## Lessons Learned
+Thining about how I would attack this differently now, I think I would be better able to decide how each flexbox should justify and align content from the beginning rather than throwing it all together and then adjusting until I got to the desired behavior. There are some aspects fo my CSS which may conflict or not be the most inteligible or simple way to get to the desired outcome. I now feel much more comfortable with flexboxes and css so I would say this project was a complete success!
