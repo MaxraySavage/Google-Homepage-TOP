@@ -5,7 +5,7 @@ A clone of the google homepage. First HTML + CSS project from The Odin Project.
 Gain familiarity with HTML, CSS, developer tools. 
 
 ## Process
-I experimented with the original Google page and investigated its behavior, taking notes in [notes.md].
+I experimented with the original Google page and investigated its behavior, taking notes in [notes.md](https://github.com/MaxraySavage/Google-Homepage-TOP/blob/main/notes.md).
 
 Then I built a very rough html structure to mirror the original page that looked something like
 
